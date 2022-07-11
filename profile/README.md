@@ -14,7 +14,7 @@
 1. [3D-Reconstruction-CBIL](https://github.com/lab-taco/3D-Reconstruction-CBIL)
 
 ## Homeostatic plasticity
-1. [SNN-HP](https://github.com/lab-taco/SNN-HP)
+1. [SNN-HP](https://github.com/lab-taco/SNN-HP): Probabilistic spiking neural network with homeostatic plasticity
 
 ## ETC.
 1. [intern-winter2022](https://github.com/lab-taco/intern-winter2022): Archive for the activity of interns on Jan.-Feb., 2022
