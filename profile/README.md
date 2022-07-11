@@ -13,6 +13,9 @@
 ## Cerebellar models
 1. [3D-Reconstruction-CBIL](https://github.com/lab-taco/3D-Reconstruction-CBIL)
 
+## Homeostatic plasticity
+1. [SNN-HP](https://github.com/lab-taco/SNN-HP)
+
 ## ETC.
 1. [intern-winter2022](https://github.com/lab-taco/intern-winter2022): Archive for the activity of interns on Jan.-Feb., 2022
 1. [pyn-ei-surface](https://github.com/lab-taco/pyn-ei-surface): Simulation for the relationship between the surface and EI-ratio of a pyramidal neuron
