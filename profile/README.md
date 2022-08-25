@@ -15,6 +15,7 @@
 
 ## Homeostatic plasticity
 1. [SNN-HP](https://github.com/lab-taco/SNN-HP): Probabilistic spiking neural network with homeostatic plasticity
+1. [LayerNorm-understanding](https://github.com/lab-taco/LayerNorm-understanding): Understanding layer normalization
 
 ## ETC.
 1. [intern-winter2022](https://github.com/lab-taco/intern-winter2022): Archive for the activity of interns on Jan.-Feb., 2022
