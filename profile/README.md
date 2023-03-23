@@ -12,6 +12,7 @@
 
 ## Cerebellar models
 1. [3D-Reconstruction-CBIL](https://github.com/lab-taco/3D-Reconstruction-CBIL)
+1. [cerebellar-function-model](https://github.com/lab-taco/cerebellar-function-model): A model of cerebellar function
 
 ## Homeostatic plasticity
 1. [SNN-HP](https://github.com/lab-taco/SNN-HP): Probabilistic spiking neural network with homeostatic plasticity
